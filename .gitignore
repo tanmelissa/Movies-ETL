@@ -1,4 +1,5 @@
 #add files to ignore
 config.py
 movies_metadata.csv
-ratings.csvwikipedia-movies.json
+ratings.csv
+wikipedia-movies.json
